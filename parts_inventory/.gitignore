@@ -1,0 +1,8 @@
+/bin/
+<<<<<<< HEAD
+.classpath
+=======
+>>>>>>> e3f1c18ba76c7a514ed3b3d9205a53f8cc239296
+.idea/*
+mysql-connector-java-5.1.14.jar
+parts_inventory.iml
